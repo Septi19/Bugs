@@ -5,18 +5,22 @@ Below are some Bug Report samples that I wrote while working on previous project
 **Notification Badge is not working**
 
 **Description**
+
 After I add some products in CART, I want to see some notification count depending on how many products I have in the CART.
 
 **Steps to reproduce**
+
 1. https://www.demoblaze.com
 2. Buy some produce
 3. Click on ADD to CART
 4. Go to homepage
 
 **Expected result**
+
 User should be able to see notification count on CART depending on how many  products he ordered.
 
 **Actual result**
+
 User are not able to see the notification  on count.
 
 ---------------------------

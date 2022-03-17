@@ -44,7 +44,7 @@ After I added some products to CART,I wasn't able to see Currency on the CART.
 
 ----------
 
-**Text to small and the color are grey**
+**Text too small and the color are grey**
 
 **Description**
 When I am on the main page of the site, I have some difficulties reading because the text is small and grey.
@@ -64,14 +64,18 @@ User should be able to not have some difficulties and the color is grey.
 **Icon English language doesn't work exactly**
 
 **Description**
-When I click on the English language to read/need information from romanian to english, it doesn't translate all the words.
+
+When I click on the English language to read/need information from Romanian to English, it doesn't translate all the words.
 
 **Steps to reproduce**
+
 1.www.primariatechirghiol.ro/
 2.Press English icon
 
 **Expected result**
-This site should translate all words from romanian to english.
+
+This site should translate all words from Romanian to English.
 
 **Actual result**
-This site don't have every words from romanian to english.
+
+This site don't have every words from Romanian to English.

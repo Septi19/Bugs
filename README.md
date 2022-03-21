@@ -89,3 +89,22 @@ This site should translate all words from Romanian to English.
 **Actual result**
 
 This site don't have every words from Romanian to English.
+
+-----------------
+
+**Image doesn't work**
+
+**Description**
+When I make a calculation if I  drank a lot of coffee and the image doesn't work.
+
+**Steps to reproduce**
+  1.https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
+  2.Click on I had 1cups of coffee and to I had 3 cigarettes
+
+**Expected result**
+
+The user should appear an image if he drank a lot of coffee.
+
+**Actual result**
+
+The user will not see an image to understand that he drank a lot of coffee

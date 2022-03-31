@@ -98,8 +98,8 @@ This site don't have every words from Romanian to English.
 When I make a calculation if I  drank a lot of coffee and the image doesn't work.
 
 **Steps to reproduce**
-  1.https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
-  2.Click on I had 1cups of coffee and to I had 3 cigarettes
+  1. https://www.globalsqa.com/angularJs-protractor/ConsumptionCalculator/
+  2. Click on I had 1cups of coffee and to I had 3 cigarettes
 
 **Expected result**
 
